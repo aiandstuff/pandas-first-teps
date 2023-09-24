@@ -1,6 +1,6 @@
 # Pandas - First Steps: An Italian-Inspired Introduction to Data Analysis in Python 🍝🐍
 
-Welcome to the GitHub repository for the "Pandas - First Steps" tutorial from the <a href="https://www.youtube.com/channel/UCb6Lma_t1CYjumX52ZMXv_g">"AI and Stuff" YouTube channel</a>. This repository contains all the resources used in the video, including the Jupyter notebook and a sample CSV file.
+Welcome to the GitHub repository for the "Pandas - First Steps" tutorial from the <a href="https://www.youtube.com/channel/UCb6Lma_t1CYjumX52ZMXv_g" target="_blank">"AI and Stuff" YouTube channel</a>. This repository contains all the resources used in the video, including the Jupyter notebook and a sample CSV file.
 
 <img src="https://miro.medium.com/v2/resize:fit:1400/1*3GbLagVDPY9QKjjgB_Tfqw.png" width=200>
 ## Contents
